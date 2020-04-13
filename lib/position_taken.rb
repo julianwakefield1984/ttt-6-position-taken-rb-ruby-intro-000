@@ -3,6 +3,6 @@
 def position_taken?(board, index)
   if board[index] == " "
     FALSE
-    
+    eslif 
   end
 end
