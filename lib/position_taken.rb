@@ -2,6 +2,6 @@
 
 def position_taken?(board, index)
   if board[index] == nil
-    FALSE
+    puts FALSE
   
 end
